@@ -1,8 +1,12 @@
 ## Setup:
-```
-1) npm init
 
-2) npm i --save-dev jest
+Step 1:
+```
+npm init
+```
+Step 2:
+```
+npm i --save-dev jest
 ```
 ## Run test:
 ```
